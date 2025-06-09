@@ -317,7 +317,7 @@ const dropdown = (x) => {
 };
 
 onMounted(async () => {
-  const { data } = await axios.get("https://banking-fa21.onrender.com//transactions");
+  const { data } = await axios.get("https://banking-fa21.onrender.com/transactions");
   transactions.value = [...data.items];
   console.log(data);
 });

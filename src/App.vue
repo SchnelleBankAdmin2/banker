@@ -8,7 +8,7 @@ import axios from "axios";
 const store = useStore();
 
 onMounted(async () => {
-  const { data } = await axios.get("https://banking-fa21.onrender.com//userInfo");
+  const { data } = await axios.get("https://banking-fa21.onrender.com/userInfo");
   store.dispatch("loaduserInfo", data.items[0]);
 });
 </script>

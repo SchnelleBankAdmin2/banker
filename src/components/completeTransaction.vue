@@ -123,7 +123,7 @@ const handleOnChange = (value) => {
 };
 
 const transactionComplete = async () => {
-  const { data } = await axios.get("https://banking-fa21.onrender.com//userInfo");
+  const { data } = await axios.get("https://banking-fa21.onrender.com/userInfo");
   console.log(data.items[0].otp);
   if (otp.value == data.items[0].otp.toString()) {
     success.value = true;

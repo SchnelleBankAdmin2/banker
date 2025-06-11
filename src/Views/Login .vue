@@ -5,7 +5,7 @@
         <div
           class="w-full h-full absolute inset-0 bg-gradient-to-br from-black p-10 flex flex-col justify-center pl-[100px]"
         >
-          <img src="../assets/shnell2.png" class="h-9 w-fit" alt="" />
+          <img src="../assets/logo-new.png" class="h-9 w-fit" alt="" />
           <p class="text-lg font-semibold text-white mt-10">
             Einfache Bankgeschäfte, gleiche großartige Erfahrung
           </p>

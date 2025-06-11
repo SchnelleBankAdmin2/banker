@@ -68,7 +68,7 @@
             <div class="flex-shrink-0 flex items-center px-4">
               <img
                 class="h-8 w-auto"
-                src="../assets/shnell2.png"
+                src="../assets/logo-new.png"
                 alt="schnellbank logo"
               />
             </div>
@@ -288,7 +288,7 @@
             <a href="https://schnelle-bank.com/" class="flex items-center flex-shrink-0 px-4">
               <img
                 class="h-6 w-auto"
-                src="../assets/shnell2.png"
+                src="../assets/logo-new.png"
                 alt="schnellbank logo"
               />
             </a>

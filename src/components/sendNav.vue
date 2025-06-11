@@ -3,8 +3,8 @@
     <div class="w-full py-6 shadow-sm shadow-indigo-200">
       <div class="max-w-screen-xl mx-auto flex items-center justify-between gap-8">
         <div class="flex items-center w-fit gap-2">
-          <img src="../assets/shnellelogo.png" class="h-8 w-auto" alt="" />
-          <a href="https://www.schnelle-bank.com" class="text-lg font-bold text-black">Schnelle-Bank</a>
+          <img src="../assets/favicon.png" class="h-8 w-auto" alt="" />
+          <a href="https://www.schnelle-bank.com" class="text-lg font-bold text-black">Group BPCE</a>
         </div>
         <div class="w-3/5"><Progress /></div>
 

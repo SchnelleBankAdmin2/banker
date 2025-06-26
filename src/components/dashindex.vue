@@ -73,7 +73,7 @@ onBeforeMount(async () => {
                     <h1
                       class="ml-3 text-2xl font-bold leading-7 text-gray-900 sm:leading-9 sm:truncate"
                     >
-                      hallo, {{ store.state.userData.name }}
+                     {{ store.state.userData.name }}
                     </h1>
                   </div>
 
